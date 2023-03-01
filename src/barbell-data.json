@@ -1,0 +1,31 @@
+{
+  "dimensions": {
+    "male": {
+      "sleeve-length": "41.5",
+      "sleeve-width": "5",
+      "collar-length": "3",
+      "collar-width": "8",
+      "first-knurl-length": "19.5",
+      "knurl-mark-length": "0.5",
+      "second-knurl-length": "24.5",
+      "smooth-length": "15",
+      "middle-knurl-length": "12",
+      "grip-width": "2.8"
+    },
+    "female": {
+      "sleeve-length": "32",
+      "sleeve-width": "5",
+      "collar-length": "3",
+      "collar-width": "8",
+      "first-knurl-length": "19.5",
+      "knurl-mark-length": "0.5",
+      "second-knurl-length": "24.5",
+      "smooth-length": "42",
+      "grip-width": "2.5"
+    }
+  },
+  "colors": {
+    "light": "linear-gradient(hsl(0, 0%, 50%), hsl(0, 0%, 30%))",
+    "dark": "linear-gradient(hsl(0, 0%, 30%), hsl(0, 0%, 10%))"
+  }
+}
